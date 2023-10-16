@@ -3,7 +3,7 @@
 
     <item android:drawable="@color/black"/>
     <item>
-        <bitmap android:src="@drawable/splash"
+        <bitmap android:src="@drawable/logosave"
                 android:gravity="center"/>
     </item>
 </layer-list>

@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/black"
+    android:background="@color/white"
     tools:context=".History">
     <LinearLayout
         android:layout_width="match_parent"
@@ -18,7 +18,8 @@
             android:text="@string/history"
             android:fontFamily="@font/opensans"
             android:textSize="26sp"
-            android:textColor="@color/white"
+            android:textColor="@color/black"
+
             android:layout_margin="20dp"/>
 
         <LinearLayout
@@ -42,6 +43,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
+                    android:text="shoo"
                     android:fontFamily="@font/opensans_light"
                     android:textColor="@color/white"
                     android:textSize="15sp" />
